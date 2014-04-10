@@ -1,0 +1,7 @@
+---
+layout: post
+title: my first post just to test
+slug: this post is just to test the setup
+---
+
+The source for this site can be found at [github](https://github.com/aabeling/aabeling.github.io).

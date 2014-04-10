@@ -1,0 +1,4 @@
+safe: true
+pygments: true
+markdown: redcarpet
+permalink: /blog/:title
