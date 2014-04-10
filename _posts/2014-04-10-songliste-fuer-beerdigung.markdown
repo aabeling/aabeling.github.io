@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_de
 title: Songliste für meine Beerdigung
 slug: Songs, die ich gerne auf meiner Beerdigung hören würde
 ---
