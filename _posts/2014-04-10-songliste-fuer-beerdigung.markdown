@@ -6,6 +6,6 @@ slug: Songs, die ich gerne auf meiner Beerdigung hören würde
 
 Die Songs dürfen gerne von Bands und Chören vorgetragen werden und müssen nicht vom Band kommen.
 
-* The Shins - Saint Simon
+* The Shins - Pink Bullets
 * Israel Kamakawiwo'ole - Over The Rainbow
 * Jeff Buckley - Hallelujah
