@@ -9,3 +9,4 @@ Die Songs dürfen gerne von Bands und Chören vorgetragen werden und müssen nic
 * The Shins - Pink Bullets
 * Israel Kamakawiwo'ole - Over The Rainbow
 * Jeff Buckley - Hallelujah
+* Charlie Winston - In Your Hands
