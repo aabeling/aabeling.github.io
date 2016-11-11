@@ -1,4 +1,4 @@
 safe: true
-pygments: true
+highlighter: true
 markdown: redcarpet
 permalink: /blog/:title
