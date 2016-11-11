@@ -2,6 +2,7 @@
 layout: post
 title: Dynamic json responses with jackson
 slug: How to control json responses with jackson on a per-request basis to implement an expand mechanism
+comments: true
 ---
 
 It is a common pattern in Rest services to have an expand query
