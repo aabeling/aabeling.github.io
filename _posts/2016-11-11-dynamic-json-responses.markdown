@@ -53,4 +53,4 @@ And the ``JsonProfileFilter`` is
 <script src="https://gist.github.com/aabeling/625f3b9a25dc0d770a79f242a5df3834.js">
 </script>
 
-The whole solution is not as easy to use than json-view but it works for us. Now, one we made the preparations we just have to put the ``@JsonProfile`` annotation on DTOs where we want to expand and use the ``JsonProfile`` in the controller methods.
+The whole solution is not as easy to use than json-view but it works for us. Now, once we made the preparations we just have to put the ``@JsonProfile`` annotation on DTOs where we want to expand and use the ``JsonProfile`` in the controller methods.
