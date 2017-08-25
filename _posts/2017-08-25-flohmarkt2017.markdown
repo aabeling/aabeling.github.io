@@ -1,0 +1,15 @@
+---
+layout: post_de
+title: Flohmarkt Finnenhaussiedlung 2017
+slug: Eine Karte für den Flohmarkt Finnenhaussiedlung Preetz 2017
+comments: true
+---
+
+<script src="https://embed.github.com/view/geojson/aabeling/geojson/master/flohmarkt2017.geojson">
+</script>
+
+Die Karte wurde erstellt auf http://geojson.io.
+Die Straßen habe ich aus den Erfahrungen der letzten Jahre eingefügt.
+Wenn ich eine Straße vergessen haben sollte, bitte melden.
+Die Quellen für die Karte sind unter https://github.com/aabeling/geojson.
+
